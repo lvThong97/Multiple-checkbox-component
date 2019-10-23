@@ -20,3 +20,30 @@
 .App-link {
   color: #09d3ac;
 }
+.clear-style-btn {
+  border: none;
+  
+}
+.bg-xam {
+  background-color:#f1eeec;
+}
+.clear-bg-btn {
+  background-color: #fff;
+}
+.font9 {
+  font-size: 9px;
+}
+.margin-top-10 {
+  margin-top: -10px;
+}
+.list-unstyle {
+  list-style-type: none;
+}
+.textfl {
+  overflow: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.display-flex {
+  display: flex;
+}
